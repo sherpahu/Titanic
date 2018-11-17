@@ -1,7 +1,7 @@
-KaggleÌ©Ì¹Äá¿ËºÅ´¬Ô±»ñ¾ÈÔ¤²â±ÈÈü
-KaggleÖ÷Ò³
+Kaggleæ³°å¦å°¼å…‹å·èˆ¹å‘˜è·æ•‘é¢„æµ‹æ¯”èµ›
+Kaggleä¸»é¡µ
 https://www.kaggle.com/sherpahu
-csdn²©¿ÍÁ´½Ó
+csdnåšå®¢é“¾æ¥
 https://blog.csdn.net/sherpahu/article/details/84146907
-colabÁ´½Ó
+colabé“¾æ¥
 https://colab.research.google.com/drive/10-KvwlPOzJcj0r7Xis95JIza0mYOsyYH
